@@ -1,6 +1,5 @@
 
 #  Logistic Regression with Titanic Dataset
-
 In statistics, the logistic model (or logit model) is used to model the probability of a certain class or event existing such as pass/fail, win/lose, alive/dead or healthy/sick.
 
 Logistic regression doesn’t predict the continuous values. Logistic regression predicts whether something is True or False.
